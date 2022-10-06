@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/commutify-challenge/static/css/main.feeb9bc3.css",
+    "main.js": "/commutify-challenge/static/js/main.46ab5f29.js",
+    "static/media/cloud-blue-sky.jpg": "/commutify-challenge/static/media/cloud-blue-sky.1a0bfde97ceb63ca194a.jpg",
+    "index.html": "/commutify-challenge/index.html",
+    "main.feeb9bc3.css.map": "/commutify-challenge/static/css/main.feeb9bc3.css.map",
+    "main.46ab5f29.js.map": "/commutify-challenge/static/js/main.46ab5f29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feeb9bc3.css",
+    "static/js/main.46ab5f29.js"
+  ]
+}
